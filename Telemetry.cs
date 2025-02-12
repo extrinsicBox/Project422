@@ -6,11 +6,11 @@ using RDR2.Math;
 using RDR2.Native;
 using RDR2.UI;
 
-public class PhotogrammetryHUD : Script
+public class flightTelemetry : Script
 {
     private bool showHUD = false; // Toggle for HUD visibility
 
-    public PhotogrammetryHUD()
+    public flightTelemetry()
     {
         KeyDown += OnKeyDown;
         Tick += OnTick;
