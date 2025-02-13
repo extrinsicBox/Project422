@@ -1,0 +1,379 @@
+[
+    {
+        "name": "Boats",
+        "vehicles": [
+            {
+                "name": "Steamboat",
+                "model": "BOATSTEAM02X"
+            },
+            {
+                "name": "Keelboat",
+                "model": "KEELBOAT"
+            },
+            {
+                "name": "Canoe",
+                "model": "CANOE"
+            },
+            {
+                "name": "Canoe Tree Trunk",
+                "model": "CANOETREETRUNK"
+            },
+            {
+                "name": "Pirogue",
+                "model": "PIROGUE"
+            },
+            {
+                "name": "RC Boat",
+                "model": "RCBOAT"
+            },
+            {
+                "name": "Rowboat",
+                "model": "rowboat"
+            },
+            {
+                "name": "Rowboat(Swamp)",
+                "model": "ROWBOATSWAMP"
+            },
+            {
+                "name": "Skiff",
+                "model": "SKIFF"
+            }
+        ]
+    },
+    {
+        "name": "Cars",
+        "vehicles": [
+            {
+                "name": "Private Coal car",
+                "model": "PRIVATECOALCAR01X"
+            },
+            {
+                "name": "Private Steamer",
+                "model": "PRIVATESTEAMER01X"
+            },
+            {
+                "name": "Private Dining",
+                "model": "PRIVATEDINING01X"
+            },
+            {
+                "name": "Midland Box Car 5",
+                "model": "midlandboxcar05x"
+            },
+            {
+                "name": "Private Flat Car",
+                "model": "privateflatcar01x"
+            },
+            {
+                "name": "Private Box Car 4",
+                "model": "privateboxcar04x"
+            },
+            {
+                "name": "Private Baggage",
+                "model": "privatebaggage01X"
+            },
+            {
+                "name": "Private Passanger",
+                "model": "privatepassenger01x"
+            },
+            {
+                "name": "Trolley",
+                "model": "trolley01x"
+            },
+            {
+                "name": "North Flat Car",
+                "model": "northflatcar01x"
+            },
+            {
+                "name": "North Coal Car",
+                "model": "northcoalcar01x"
+            },
+            {
+                "name": "North Passanger",
+                "model": "northpassenger03x"
+            },
+            {
+                "name": "Private box car 2",
+                "model": "privateboxcar02x"
+            },
+            {
+                "name": "Armored Car 3",
+                "model": "armoredcar03x"
+            },
+            {
+                "name": "Private Open Sleeper 2",
+                "model": "privateopensleeper02x"
+            },
+            {
+                "name": "Windstreamer",
+                "model": "WINTERSTEAMER"
+            },
+            {
+                "name": "Winter Coal Car",
+                "model": "wintercoalcar"
+            },
+            {
+                "name": "Private box car",
+                "model": "privateboxcar01x"
+            },
+            {
+                "name": "Private Observation Car",
+                "model": "privateobservationcar"
+            },
+            {
+                "name": "Private Armoured",
+                "model": "privatearmoured"
+            },
+            {
+                "name": "Caboose 01",
+                "model": "CABOOSE01X"
+            },
+            {
+                "name": "North Passanger",
+                "model": "northpassenger01x"
+            },
+            {
+                "name": "North Steamer",
+                "model": "NORTHSTEAMER01X"
+            }
+        ]
+    },
+    {
+        "name": "Other",
+        "vehicles": [
+            {
+                "name": "Handcart",
+                "model": "HANDCART"
+            },
+            {
+                "name": "Hot Air Balloon",
+                "model": "HOTAIRBALLOON01"
+            },
+            {
+                "name": "Spawn hotchkiss_cannon",
+                "model": "hotchkiss_cannon"
+            },
+            {
+                "name": "Cutscene Coach 3",
+                "model": "coach3_cutscene"
+            },
+            {
+                "name": "Breaching Cannon",
+                "model": "BREACH_CANNON"
+            },
+            {
+                "name": "Gattling Gun",
+                "model": "GATLING_GUN"
+            },
+            {
+                "name": "Gatling Maxi 2",
+                "model": "GATLINGMAXIM02"
+            }
+        ]
+    },
+    {
+        "name": "Ships",
+        "vehicles": [
+            {
+                "name": "Guama 2",
+                "model": "SHIP_GUAMA02"
+            },
+            {
+                "name": "NB Guama",
+                "model": "SHIP_NBDGUAMA"
+            },
+            {
+                "name": "Horse Boat",
+                "model": "horseBoat"
+            },
+            {
+                "name": "Smuggler 2",
+                "model": "SMUGGLER02"
+            },
+            {
+                "name": "Turbine Boat",
+                "model": "turbineboat"
+            }
+        ]
+    },
+    {
+        "name": "Stagecoaches",
+        "vehicles": [
+            {
+                "name": "Cart",
+                "model": "CART01"
+            },
+            {
+                "name": "Cart 2",
+                "model": "CART02"
+            },
+            {
+                "name": "Cart 3",
+                "model": "CART03"
+            },
+            {
+                "name": "Cart 4",
+                "model": "CART04"
+            },
+            {
+                "name": "Cart 5",
+                "model": "CART05"
+            },
+            {
+                "name": "Cart 6",
+                "model": "CART06"
+            },
+            {
+                "name": "Cart 7",
+                "model": "CART07"
+            },
+            {
+                "name": "Cart 8",
+                "model": "CART08"
+            },
+            {
+                "name": "Army Supply Wagon",
+                "model": "ARMYSUPPLYWAGON"
+            },
+            {
+                "name": "Buggy",
+                "model": "BUGGY01"
+            },
+            {
+                "name": "Buggy 2",
+                "model": "BUGGY02"
+            },
+            {
+                "name": "Buggy 3",
+                "model": "BUGGY03"
+            },
+            {
+                "name": "Chuck Wagon",
+                "model": "CHUCKWAGON000X"
+            },
+            {
+                "name": "Chuck Wagon 2",
+                "model": "CHUCKWAGON002X"
+            },
+            {
+                "name": "Coach 2",
+                "model": "COACH2"
+            },
+            {
+                "name": "Coach 3",
+                "model": "COACH3"
+            },
+            {
+                "name": "Coach 4",
+                "model": "COACH4"
+            },
+            {
+                "name": "Coach 5",
+                "model": "COACH5"
+            },
+            {
+                "name": "Coach 6",
+                "model": "COACH6"
+            },
+            {
+                "name": "Coal Wagon",
+                "model": "coal_wagon"
+            },
+            {
+                "name": "Oil Wagon",
+                "model": "OILWAGON01X"
+            },
+            {
+                "name": "Spawn Police Patrol Wagon",
+                "model": "POLICEWAGON01X"
+            },
+            {
+                "name": "Wagon 2",
+                "model": "WAGON02X"
+            },
+            {
+                "name": "Wagon 4",
+                "model": "WAGON04X"
+            },
+            {
+                "name": "Log Wagon",
+                "model": "LOGWAGON"
+            },
+            {
+                "name": "Wagon 3",
+                "model": "WAGON03X"
+            },
+            {
+                "name": "Wagon 5",
+                "model": "WAGON05X"
+            },
+            {
+                "name": "Wagon 6",
+                "model": "WAGON06X"
+            },
+            {
+                "name": "Prison Wagon",
+                "model": "WAGONPRISON01X"
+            },
+            {
+                "name": "Stagecoach",
+                "model": "STAGECOACH001X"
+            },
+            {
+                "name": "Stagecoach 2",
+                "model": "STAGECOACH002X"
+            },
+            {
+                "name": "Stagecoach 3",
+                "model": "STAGECOACH003X"
+            },
+            {
+                "name": "Stagecoach 4",
+                "model": "STAGECOACH004X"
+            },
+            {
+                "name": "Stagecoach 5",
+                "model": "STAGECOACH005X"
+            },
+            {
+                "name": "Stagecoach 6",
+                "model": "STAGECOACH006X"
+            },
+            {
+                "name": "Utility Wagon",
+                "model": "UTILLIWAG"
+            },
+            {
+                "name": "Gatchuck",
+                "model": "GATCHUCK"
+            },
+            {
+                "name": "Gatchuck 2",
+                "model": "GATCHUCK_2"
+            },
+            {
+                "name": "Circus Wagon",
+                "model": "wagonCircus01x"
+            },
+            {
+                "name": "Diary Wagon",
+                "model": "wagonDairy01x"
+            },
+            {
+                "name": "Work Wagon",
+                "model": "wagonWork01x"
+            },
+            {
+                "name": "Traveller Wagon",
+                "model": "wagonTraveller01x"
+            },
+            {
+                "name": "Supply Wagon",
+                "model": "supplywagon"
+            },
+            {
+                "name": "Doc Wagon",
+                "model": "wagonDoc01x"
+            }
+        ]
+    }
+]

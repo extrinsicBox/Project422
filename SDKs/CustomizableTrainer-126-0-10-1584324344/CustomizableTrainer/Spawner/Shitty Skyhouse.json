@@ -1,0 +1,4535 @@
+{
+    "settings": {
+        "startPos": {
+            "x": 2517.016,
+            "y": -514.798,
+            "z": 69.43
+        }
+    },
+    "entities": {
+        "objects": [
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 269.2470703125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.02490234375,
+                    "y": -536.6131591796875,
+                    "z": 67.43062591552734
+                },
+                "rotation": {
+                    "pitch": 84.37471771240234,
+                    "roll": -2.0000834465026855,
+                    "yaw": -97.5966567993164
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 170.76290893554688,
+                "invincible": false,
+                "model": "P_BED05X",
+                "position": {
+                    "x": 2508.318115234375,
+                    "y": -527.3482666015625,
+                    "z": 68.14859771728516
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 170.76290893554688
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 172.56906127929688,
+                "invincible": false,
+                "model": "P_BED10X",
+                "position": {
+                    "x": 2511.0908203125,
+                    "y": -534.9169311523438,
+                    "z": 67.76617431640625
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 172.56906127929688
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": true,
+                "frozen": false,
+                "gravity": true,
+                "heading": 83.21268463134766,
+                "invincible": false,
+                "model": "P_BENCH03X",
+                "position": {
+                    "x": 2507.366943359375,
+                    "y": -530.021240234375,
+                    "z": 68.08425903320313
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 83.21269226074219
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": true,
+                "frozen": false,
+                "gravity": true,
+                "heading": 168.22862243652344,
+                "invincible": false,
+                "model": "P_BENCHNBX03X",
+                "position": {
+                    "x": 2518.816162109375,
+                    "y": -520.1329956054688,
+                    "z": 68.08399963378906
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 168.22862243652344
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": true,
+                "frozen": false,
+                "gravity": true,
+                "heading": 168.72796630859375,
+                "invincible": false,
+                "model": "P_BENCHNBX03X",
+                "position": {
+                    "x": 2511.39697265625,
+                    "y": -518.3432006835938,
+                    "z": 68.49732971191406
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 168.72796630859375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 168.4617919921875,
+                "invincible": false,
+                "model": "P_BLACKJACKTABLE02X",
+                "position": {
+                    "x": 2513.345703125,
+                    "y": -535.8284912109375,
+                    "z": 67.60892486572266
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 168.4617919921875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 258.8677062988281,
+                "invincible": false,
+                "model": "P_BOOK02X",
+                "position": {
+                    "x": 2519.119140625,
+                    "y": -526.9070434570313,
+                    "z": 69.5106201171875
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -101.13229370117188
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 261.7603454589844,
+                "invincible": false,
+                "model": "P_BOOK05X",
+                "position": {
+                    "x": 2518.915283203125,
+                    "y": -526.9921264648438,
+                    "z": 68.8100357055664
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -98.23966217041016
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 80.22023010253906,
+                "invincible": false,
+                "model": "P_BOOKCASE01X",
+                "position": {
+                    "x": 2508.8134765625,
+                    "y": -523.4254150390625,
+                    "z": 68.31407165527344
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 80.2202377319336
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 206.68319702148438,
+                "invincible": false,
+                "model": "P_BOOT_LEATHER_001",
+                "position": {
+                    "x": 2532.888427734375,
+                    "y": -551.0419311523438,
+                    "z": 41.478599548339844
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -153.31680297851563
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 327.4714050292969,
+                "invincible": false,
+                "model": "P_BOOTSCONFED01X",
+                "position": {
+                    "x": 2514.77197265625,
+                    "y": -520.5670166015625,
+                    "z": 68.38713073730469
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -32.528587341308594
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 202.707275390625,
+                "invincible": false,
+                "model": "P_BOTTLE001X",
+                "position": {
+                    "x": 2533.081787109375,
+                    "y": -550.5890502929688,
+                    "z": 41.276268005371094
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -157.292724609375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 269.76605224609375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.795166015625,
+                    "y": -536.4600219726563,
+                    "z": 67.5111083984375
+                },
+                "rotation": {
+                    "pitch": 88.23243713378906,
+                    "roll": -2.0000665187835693,
+                    "yaw": -97.50184631347656
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0303955078125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.744140625,
+                    "y": -534.1755981445313,
+                    "z": 67.49166107177734
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.44316101074219
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02523803710938,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.19140625,
+                    "y": -533.8713989257813,
+                    "z": 67.686279296875
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.19326782226563
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 269.7677917480469,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.57373046875,
+                    "y": -536.2298583984375,
+                    "z": 67.5782470703125
+                },
+                "rotation": {
+                    "pitch": 88.23243713378906,
+                    "roll": -2.0000665187835693,
+                    "yaw": -97.44752502441406
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0343933105469,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.617431640625,
+                    "y": -534.2706298828125,
+                    "z": 67.57610321044922
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.59222412109375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02759552001953,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2507.680419921875,
+                    "y": -533.6251831054688,
+                    "z": 67.89249420166016
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.7668228149414
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03319549560547,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2507.488037109375,
+                    "y": -535.5330200195313,
+                    "z": 67.8605728149414
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -98.12110900878906
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03723907470703,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2505.19970703125,
+                    "y": -535.3236083984375,
+                    "z": 68.06494903564453
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -99.09080505371094
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0323486328125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2505.405517578125,
+                    "y": -533.3751831054688,
+                    "z": 68.10689544677734
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.91616821289063
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02357482910156,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2506.28955078125,
+                    "y": -535.6427612304688,
+                    "z": 68.09957885742188
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -95.78810119628906
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03607177734375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2507.666259765625,
+                    "y": -533.9381103515625,
+                    "z": 67.97637939453125
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.18632507324219
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0276794433594,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.18505859375,
+                    "y": -533.9376220703125,
+                    "z": 67.77025604248047
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 83.21538543701172
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0294494628906,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.44775390625,
+                    "y": -536.0762329101563,
+                    "z": 67.65463256835938
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.79013061523438
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03753662109375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.73876953125,
+                    "y": -535.8550415039063,
+                    "z": 67.73564147949219
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.83866882324219
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 269.998779296875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.29931640625,
+                    "y": -532.0779418945313,
+                    "z": 67.48975372314453
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 90.30108642578125
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02557373046875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2507.78125,
+                    "y": -531.56640625,
+                    "z": 67.61720275878906
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.27542114257813
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03306579589844,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.298828125,
+                    "y": -531.8027954101563,
+                    "z": 67.70296478271484
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -98.08849334716797
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03045654296875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.34033203125,
+                    "y": -531.8784790039063,
+                    "z": 67.78673553466797
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.54056549072266
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03086853027344,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2506.661865234375,
+                    "y": -531.5385131835938,
+                    "z": 67.65922546386719
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.55847930908203
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03836059570313,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2505.52587890625,
+                    "y": -531.201416015625,
+                    "z": 67.69822692871094
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -99.3616943359375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03106689453125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.05224609375,
+                    "y": -529.9014892578125,
+                    "z": 67.66736602783203
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.40000915527344
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0300521850586,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2505.660888671875,
+                    "y": -529.0714111328125,
+                    "z": 67.68086242675781
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.36132049560547
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03350830078125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.218505859375,
+                    "y": -530.0658569335938,
+                    "z": 67.6185531616211
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.80464172363281
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0386047363281,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.93408203125,
+                    "y": -529.6709594726563,
+                    "z": 67.70272064208984
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.58509826660156
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.024658203125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.695068359375,
+                    "y": -529.6390380859375,
+                    "z": 67.74524688720703
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 83.9537353515625
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.02911376953125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.526611328125,
+                    "y": -529.3416748046875,
+                    "z": 67.79556274414063
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.86851501464844
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0340270996094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2508.52685546875,
+                    "y": -529.2015380859375,
+                    "z": 68.00445556640625
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.68475341796875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 88.03780364990234,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2507.73681640625,
+                    "y": -530.6480102539063,
+                    "z": 67.7393569946289
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -6.258401870727539
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0310974121094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.378173828125,
+                    "y": -532.262451171875,
+                    "z": 67.56999969482422
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.38748931884766
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0362854003906,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.4248046875,
+                    "y": -528.0440673828125,
+                    "z": 67.86971282958984
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.13887023925781
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0334167480469,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.29931640625,
+                    "y": -527.7509155273438,
+                    "z": 67.92189025878906
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.82827758789063
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.02606201171875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.189453125,
+                    "y": -527.5736083984375,
+                    "z": 67.95809936523438
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 83.6127700805664
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.02630615234375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.966796875,
+                    "y": -527.3963623046875,
+                    "z": 68.00328063964844
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 83.54639434814453
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.026611328125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.828369140625,
+                    "y": -527.1912841796875,
+                    "z": 68.03964233398438
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 83.47760772705078
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03828430175781,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.559326171875,
+                    "y": -528.0596923828125,
+                    "z": 67.83305358886719
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -99.34266662597656
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.02960205078125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2508.46142578125,
+                    "y": -527.0738525390625,
+                    "z": 68.06504821777344
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.75060272216797
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 20.317642211914063,
+                "invincible": false,
+                "model": "P_BEECH_STAGE_04E",
+                "position": {
+                    "x": 2510.5595703125,
+                    "y": -535.213623046875,
+                    "z": 67.92725830078125
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 20.317642211914063
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.039794921875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.062744140625,
+                    "y": -537.0324096679688,
+                    "z": 67.52648162841797
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.2949447631836
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.036865234375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.9384765625,
+                    "y": -536.6969604492188,
+                    "z": 67.57847595214844
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.99972534179688
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03240966796875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.73779296875,
+                    "y": -536.544921875,
+                    "z": 67.62438201904297
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.06780242919922
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.04042053222656,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.95556640625,
+                    "y": -534.2310791015625,
+                    "z": 67.53670501708984
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -99.8527603149414
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02730560302734,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.534912109375,
+                    "y": -536.2338256835938,
+                    "z": 67.5677719116211
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.69479370117188
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02906036376953,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.157470703125,
+                    "y": -534.5474853515625,
+                    "z": 67.58263397216797
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.12091827392578
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0270004272461,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.370361328125,
+                    "y": -534.6743774414063,
+                    "z": 67.62800598144531
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.6228256225586
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02786254882813,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.460205078125,
+                    "y": -534.8136596679688,
+                    "z": 67.66438293457031
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.83192443847656
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03036499023438,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.29931640625,
+                    "y": -532.2000732421875,
+                    "z": 67.57373046875
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.43670654296875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0295181274414,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.50439453125,
+                    "y": -532.3465576171875,
+                    "z": 67.61972045898438
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.23149871826172
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02970123291016,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.705078125,
+                    "y": -532.5021362304688,
+                    "z": 67.66615295410156
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.27664947509766
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03089904785156,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.8466796875,
+                    "y": -532.6746215820313,
+                    "z": 67.69558715820313
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.56600952148438
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03388977050781,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.163818359375,
+                    "y": -529.8601684570313,
+                    "z": 67.78601837158203
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -98.28778076171875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0341796875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.33544921875,
+                    "y": -530.0357055664063,
+                    "z": 67.8344497680664
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -98.35755920410156
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0369644165039,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.558349609375,
+                    "y": -530.265869140625,
+                    "z": 67.879150390625
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -99.02586364746094
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03485870361328,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.7080078125,
+                    "y": -530.40283203125,
+                    "z": 67.92831420898438
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -98.52014923095703
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0345230102539,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.369873046875,
+                    "y": -527.8846435546875,
+                    "z": 67.78604125976563
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -98.43955993652344
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.04085540771484,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.67041015625,
+                    "y": -528.2190551757813,
+                    "z": 67.86978149414063
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -99.95701599121094
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.0401611328125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.84228515625,
+                    "y": -528.415283203125,
+                    "z": 67.91773223876953
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -99.79010009765625
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0291748046875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.66259765625,
+                    "y": -526.8182983398438,
+                    "z": 67.84371948242188
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.85726928710938
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03204345703125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.45947265625,
+                    "y": -526.6408081054688,
+                    "z": 67.89012908935547
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.1600112915039
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03741455078125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.34423828125,
+                    "y": -526.2969360351563,
+                    "z": 67.91313171386719
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.86611938476563
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03643798828125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.173095703125,
+                    "y": -526.1201782226563,
+                    "z": 67.96134185791016
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.09876251220703
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0421142578125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.064453125,
+                    "y": -525.85400390625,
+                    "z": 67.99658203125
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 79.74713897705078
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0350036621094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.857177734375,
+                    "y": -525.5691528320313,
+                    "z": 68.0418701171875
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.44505310058594
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0328674316406,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.622314453125,
+                    "y": -525.4133911132813,
+                    "z": 68.08528137207031
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.9590072631836
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.033447265625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.48046875,
+                    "y": -525.2408447265625,
+                    "z": 68.11830139160156
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.82440185546875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0361022949219,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.353515625,
+                    "y": -525.1442260742188,
+                    "z": 68.15553283691406
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.18087005615234
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03338623046875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.140625,
+                    "y": -524.996826171875,
+                    "z": 68.20053100585938
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.83209228515625
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03130340576172,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2508.389404296875,
+                    "y": -522.724365234375,
+                    "z": 68.14938354492188
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.66474151611328
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02828216552734,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.58642578125,
+                    "y": -522.9367065429688,
+                    "z": 68.19625854492188
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.93280029296875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02684020996094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.701416015625,
+                    "y": -523.0578002929688,
+                    "z": 68.2328872680664
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -96.5829086303711
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.02909851074219,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.931396484375,
+                    "y": -523.2490234375,
+                    "z": 68.27753448486328
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -97.1305923461914
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.04144287109375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.254150390625,
+                    "y": -523.75439453125,
+                    "z": 68.22891235351563
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 79.90803527832031
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0411376953125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.340087890625,
+                    "y": -523.9269409179688,
+                    "z": 68.192138671875
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 79.97454071044922
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0414733886719,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.4951171875,
+                    "y": -524.2069702148438,
+                    "z": 68.14279174804688
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 79.89818572998047
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.034912109375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.76171875,
+                    "y": -524.7044677734375,
+                    "z": 68.0602798461914
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.46904754638672
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03009033203125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.989501953125,
+                    "y": -524.8695068359375,
+                    "z": 68.01590728759766
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.62974548339844
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0281677246094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.5771484375,
+                    "y": -524.4650268554688,
+                    "z": 68.10787963867188
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 83.10099029541016
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03448486328125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.902099609375,
+                    "y": -522.5621337890625,
+                    "z": 68.0811996459961
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.5729751586914
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0362854003906,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.0810546875,
+                    "y": -522.9785766601563,
+                    "z": 68.03271484375
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.13697052001953
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0408630371094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.767578125,
+                    "y": -522.3413696289063,
+                    "z": 68.11991882324219
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.04156494140625
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.039306640625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.57275390625,
+                    "y": -522.1882934570313,
+                    "z": 68.16602325439453
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.41472625732422
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03094482421875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.043212890625,
+                    "y": -520.8267211914063,
+                    "z": 68.19061279296875
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.42832946777344
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.03373718261719,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.12158203125,
+                    "y": -520.7263793945313,
+                    "z": 68.27485656738281
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -98.25155639648438
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0404052734375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.357177734375,
+                    "y": -521.9240112304688,
+                    "z": 68.21089935302734
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.15052032470703
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.039306640625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.1572265625,
+                    "y": -521.726806640625,
+                    "z": 68.25672912597656
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.41111755371094
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.040771484375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.04345703125,
+                    "y": -521.3275146484375,
+                    "z": 68.30975341796875
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.06172180175781
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0374450683594,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.04541015625,
+                    "y": -521.2031860351563,
+                    "z": 68.38966369628906
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.85905456542969
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0496826171875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.739013671875,
+                    "y": -519.93359375,
+                    "z": 68.19096374511719
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.95234680175781
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.037353515625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.644287109375,
+                    "y": -519.537109375,
+                    "z": 68.2312240600586
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.88096618652344
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.03338623046875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.476318359375,
+                    "y": -519.20703125,
+                    "z": 68.28014373779297
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.83203887939453
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.02679443359375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.31103515625,
+                    "y": -518.981201171875,
+                    "z": 68.32930755615234
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 83.42865753173828
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0306091308594,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.21435546875,
+                    "y": -518.6112670898438,
+                    "z": 68.36266326904297
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 82.50772094726563
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 90.05062866210938,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.71728515625,
+                    "y": -519.8809204101563,
+                    "z": 68.27481079101563
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -102.26805114746094
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 89.58013916015625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2508.9111328125,
+                    "y": -531.6055297851563,
+                    "z": 67.6546859741211
+                },
+                "rotation": {
+                    "pitch": 86.23239135742188,
+                    "roll": -0.5000877380371094,
+                    "yaw": 83.64300537109375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0411682128906,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.552734375,
+                    "y": -521.102783203125,
+                    "z": 67.87136840820313
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 79.9728012084961
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.04974365234375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.3291015625,
+                    "y": -520.8829956054688,
+                    "z": 67.91535949707031
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.9421157836914
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0516662597656,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.159912109375,
+                    "y": -520.5623168945313,
+                    "z": 67.96281433105469
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.49124908447266
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0491943359375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.03173828125,
+                    "y": -520.314697265625,
+                    "z": 67.99674987792969
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 78.07185363769531
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 267.915283203125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.86083984375,
+                    "y": -520.1740112304688,
+                    "z": 68.0799331665039
+                },
+                "rotation": {
+                    "pitch": 80.23239135742188,
+                    "roll": -0.5000877380371094,
+                    "yaw": -102.08800506591797
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 260.0957946777344,
+                "invincible": false,
+                "model": "P_BOOK02X",
+                "position": {
+                    "x": 2519.141357421875,
+                    "y": -526.827392578125,
+                    "z": 69.51277923583984
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -99.90420532226563
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 259.2745056152344,
+                "invincible": false,
+                "model": "P_BOOK02X",
+                "position": {
+                    "x": 2519.084716796875,
+                    "y": -526.9874267578125,
+                    "z": 69.51036834716797
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -100.72549438476563
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 258.6184997558594,
+                "invincible": false,
+                "model": "P_BOOK02X",
+                "position": {
+                    "x": 2519.062744140625,
+                    "y": -527.1025390625,
+                    "z": 69.51194763183594
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -101.38150024414063
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 258.44354248046875,
+                "invincible": false,
+                "model": "P_BOOK02X",
+                "position": {
+                    "x": 2519.062255859375,
+                    "y": -527.16943359375,
+                    "z": 69.50983428955078
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -101.55647277832031
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 166.4866943359375,
+                "invincible": false,
+                "model": "P_BOOK05X",
+                "position": {
+                    "x": 2513.01025390625,
+                    "y": -535.8390502929688,
+                    "z": 68.40913391113281
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 166.4866943359375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 173.50364685058594,
+                "invincible": false,
+                "model": "P_BOOK05X",
+                "position": {
+                    "x": 2513.655517578125,
+                    "y": -535.9412231445313,
+                    "z": 68.40913391113281
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": 173.50364685058594
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 257.714599609375,
+                "invincible": false,
+                "model": "P_BLACKJACKTABLE02X",
+                "position": {
+                    "x": 2517.788818359375,
+                    "y": -529.5752563476563,
+                    "z": 67.99296569824219
+                },
+                "rotation": {
+                    "pitch": 4.305828094482422,
+                    "roll": -2.3403546810150146,
+                    "yaw": -102.30117797851563
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": false,
+                "gravity": true,
+                "heading": 259.044189453125,
+                "invincible": false,
+                "model": "P_BOOKCASE01X",
+                "position": {
+                    "x": 2518.879638671875,
+                    "y": -527.5493774414063,
+                    "z": 67.99799346923828
+                },
+                "rotation": {
+                    "pitch": 0.0,
+                    "roll": 0.0,
+                    "yaw": -100.95579528808594
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0498046875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.7255859375,
+                    "y": -519.0997314453125,
+                    "z": 67.8681411743164
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.92300415039063
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0525817871094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.53466796875,
+                    "y": -518.7784423828125,
+                    "z": 67.9139175415039
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.2764892578125
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.050048828125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.363525390625,
+                    "y": -518.54150390625,
+                    "z": 67.96121215820313
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.868896484375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05206298828125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.50732421875,
+                    "y": -518.3117065429688,
+                    "z": 68.0416030883789
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.39905548095703
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05413818359375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.302734375,
+                    "y": -518.0916748046875,
+                    "z": 68.0863037109375
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.9096908569336
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05731201171875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.14306640625,
+                    "y": -517.8236694335938,
+                    "z": 68.13422393798828
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.17414855957031
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0574951171875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.021240234375,
+                    "y": -517.5452880859375,
+                    "z": 68.1805648803711
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.13444519042969
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0560607910156,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.0283203125,
+                    "y": -517.3228759765625,
+                    "z": 68.26042175292969
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.46856689453125
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05712890625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.83984375,
+                    "y": -517.072509765625,
+                    "z": 68.30603790283203
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.2166748046875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05731201171875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.873046875,
+                    "y": -516.83349609375,
+                    "z": 68.38597869873047
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.1736831665039
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0436096191406,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.01220703125,
+                    "y": -517.1361694335938,
+                    "z": 67.92098236083984
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 79.38745880126953
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.052490234375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.834716796875,
+                    "y": -516.9566040039063,
+                    "z": 67.96829986572266
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.2950439453125
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05084228515625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.654052734375,
+                    "y": -516.722900390625,
+                    "z": 68.01480102539063
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.68696594238281
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05401611328125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.48681640625,
+                    "y": -516.3936157226563,
+                    "z": 68.06230926513672
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.94080352783203
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05462646484375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.31884765625,
+                    "y": -516.1087646484375,
+                    "z": 68.10955047607422
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.79924011230469
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0566711425781,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.19970703125,
+                    "y": -515.8179931640625,
+                    "z": 68.15869140625
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.32467651367188
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05682373046875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.0634765625,
+                    "y": -515.5494384765625,
+                    "z": 68.2082290649414
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.29012298583984
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05364990234375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.860107421875,
+                    "y": -515.26123046875,
+                    "z": 68.2525405883789
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.03076171875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05322265625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.637451171875,
+                    "y": -515.0283813476563,
+                    "z": 68.29573822021484
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.1300277709961
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.04241943359375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.298583984375,
+                    "y": -515.2259521484375,
+                    "z": 67.9137191772461
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 79.67493438720703
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0384826660156,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.071044921875,
+                    "y": -515.0274047851563,
+                    "z": 67.957275390625
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 80.61096954345703
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0527038574219,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.86962890625,
+                    "y": -514.8015747070313,
+                    "z": 68.00320434570313
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.2501220703125
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0511474609375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.73828125,
+                    "y": -514.5623779296875,
+                    "z": 68.0514907836914
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 77.60945892333984
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05712890625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.595458984375,
+                    "y": -514.3782348632813,
+                    "z": 68.0833740234375
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 76.22042846679688
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05810546875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.397705078125,
+                    "y": -514.068359375,
+                    "z": 68.12801361083984
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 75.99549102783203
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.05865478515625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.1884765625,
+                    "y": -513.7763061523438,
+                    "z": 68.1717529296875
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 75.867919921875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.06146240234375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2513.022705078125,
+                    "y": -513.4568481445313,
+                    "z": 68.21870422363281
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 75.21723175048828
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.0663757324219,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.81689453125,
+                    "y": -513.1945190429688,
+                    "z": 68.26261138916016
+                },
+                "rotation": {
+                    "pitch": 89.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": 74.10181427001953
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 263.2496032714844,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.4375,
+                    "y": -519.927734375,
+                    "z": 67.9516830444336
+                },
+                "rotation": {
+                    "pitch": 0.23239898681640625,
+                    "roll": -0.5000877976417542,
+                    "yaw": -96.75017547607422
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 257.0072326660156,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.9443359375,
+                    "y": -512.52685546875,
+                    "z": 68.32701110839844
+                },
+                "rotation": {
+                    "pitch": 0.23239891231060028,
+                    "roll": -0.5000877976417542,
+                    "yaw": -102.99229431152344
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 77.42805480957031,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.74853515625,
+                    "y": -517.7379150390625,
+                    "z": 68.00436401367188
+                },
+                "rotation": {
+                    "pitch": 0.23239891231060028,
+                    "roll": -0.5000877976417542,
+                    "yaw": 77.42851257324219
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 78.8730697631836,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.06005859375,
+                    "y": -515.6002807617188,
+                    "z": 67.99702453613281
+                },
+                "rotation": {
+                    "pitch": 0.23239891231060028,
+                    "roll": -0.5000877976417542,
+                    "yaw": 78.87346649169922
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 259.17767333984375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.3017578125,
+                    "y": -518.1397094726563,
+                    "z": 68.7050552368164
+                },
+                "rotation": {
+                    "pitch": 0.23239891231060028,
+                    "roll": -0.5000877976417542,
+                    "yaw": -100.82192993164063
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 253.09011840820313,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.923828125,
+                    "y": -516.1981811523438,
+                    "z": 68.68002319335938
+                },
+                "rotation": {
+                    "pitch": 0.23239891231060028,
+                    "roll": -0.5000877976417542,
+                    "yaw": -106.90924835205078
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 258.326416015625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.496337890625,
+                    "y": -514.4517211914063,
+                    "z": 68.58827209472656
+                },
+                "rotation": {
+                    "pitch": 0.23239891231060028,
+                    "roll": -0.5000877976417542,
+                    "yaw": -101.67315673828125
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 44.03936767578125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.146484375,
+                    "y": -513.19287109375,
+                    "z": 68.16444396972656
+                },
+                "rotation": {
+                    "pitch": 75.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.914396286010742
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 43.732059478759766,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.336181640625,
+                    "y": -512.33251953125,
+                    "z": 68.02764892578125
+                },
+                "rotation": {
+                    "pitch": 75.76760864257813,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.776128768920898
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 38.12737274169922,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.707763671875,
+                    "y": -511.2826843261719,
+                    "z": 67.7877197265625
+                },
+                "rotation": {
+                    "pitch": 70.26761627197266,
+                    "roll": 179.49990844726563,
+                    "yaw": -14.401731491088867
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 37.47678756713867,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.9140625,
+                    "y": -510.4297790527344,
+                    "z": 67.56222534179688
+                },
+                "rotation": {
+                    "pitch": 70.26762390136719,
+                    "roll": 179.49990844726563,
+                    "yaw": -14.071142196655273
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 30.504554748535156,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.190185546875,
+                    "y": -509.44439697265625,
+                    "z": 67.23847198486328
+                },
+                "rotation": {
+                    "pitch": 65.76763153076172,
+                    "roll": 179.49990844726563,
+                    "yaw": -13.162663459777832
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 29.90222930908203,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.436279296875,
+                    "y": -508.3391418457031,
+                    "z": 66.78427124023438
+                },
+                "rotation": {
+                    "pitch": 65.76763153076172,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.848423957824707
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 24.149580001831055,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.750732421875,
+                    "y": -507.26739501953125,
+                    "z": 66.34085083007813
+                },
+                "rotation": {
+                    "pitch": 59.76762771606445,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.310132026672363
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 24.13750648498535,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.065673828125,
+                    "y": -506.218017578125,
+                    "z": 65.76307678222656
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.303167343139648
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 24.4665470123291,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.320556640625,
+                    "y": -505.15313720703125,
+                    "z": 65.18258666992188
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.493438720703125
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 25.300308227539063,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.51025390625,
+                    "y": -504.1720275878906,
+                    "z": 64.64832305908203
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.978796005249023
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 23.021116256713867,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.78466796875,
+                    "y": -503.1873779296875,
+                    "z": 64.10708618164063
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -11.662774085998535
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 24.055498123168945,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.975830078125,
+                    "y": -502.40411376953125,
+                    "z": 63.734737396240234
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -12.255855560302734
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 22.12830924987793,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.1875,
+                    "y": -501.35394287109375,
+                    "z": 63.169612884521484
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -11.156140327453613
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 20.425783157348633,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.310302734375,
+                    "y": -500.5145263671875,
+                    "z": 62.77299880981445
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.202693939208984
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 22.426342010498047,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.526123046875,
+                    "y": -499.61553955078125,
+                    "z": 62.332340240478516
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -11.324734687805176
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 20.354995727539063,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.682861328125,
+                    "y": -498.6023254394531,
+                    "z": 61.79338073730469
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.163392066955566
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 20.88651466369629,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.844970703125,
+                    "y": -497.5919494628906,
+                    "z": 61.25336837768555
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.459136009216309
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 20.432748794555664,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.02978515625,
+                    "y": -496.52838134765625,
+                    "z": 60.682716369628906
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.206561088562012
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 19.398874282836914,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.181640625,
+                    "y": -495.49737548828125,
+                    "z": 60.137481689453125
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -9.635107040405273
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 19.356998443603516,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.31982421875,
+                    "y": -494.4842224121094,
+                    "z": 59.59550476074219
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -9.612074851989746
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 20.461156845092773,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.531494140625,
+                    "y": -493.4056701660156,
+                    "z": 59.012413024902344
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.222341537475586
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 18.8629207611084,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.781005859375,
+                    "y": -492.4178161621094,
+                    "z": 58.464759826660156
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -9.340980529785156
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 20.297109603881836,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.026123046875,
+                    "y": -491.3942565917969,
+                    "z": 57.915977478027344
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.131274223327637
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 15.720502853393555,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.11865234375,
+                    "y": -490.37030029296875,
+                    "z": 57.37605285644531
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -7.642773628234863
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 17.363414764404297,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.262451171875,
+                    "y": -489.34197998046875,
+                    "z": 56.83379364013672
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -8.52525806427002
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 21.624217987060547,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.438720703125,
+                    "y": -488.2962646484375,
+                    "z": 56.27680206298828
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.872152328491211
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 20.46745491027832,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.70654296875,
+                    "y": -487.2296142578125,
+                    "z": 55.694793701171875
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -10.225841522216797
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 17.533279418945313,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.889892578125,
+                    "y": -486.1648864746094,
+                    "z": 55.12354278564453
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -8.617149353027344
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 18.52456283569336,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.07568359375,
+                    "y": -485.1048278808594,
+                    "z": 54.555946350097656
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -9.156005859375
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 17.13941192626953,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.17626953125,
+                    "y": -484.1840515136719,
+                    "z": 54.11405563354492
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -8.404268264770508
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 11.963777542114258,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.362060546875,
+                    "y": -483.13848876953125,
+                    "z": 53.556400299072266
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -5.6626057624816895
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 12.57345199584961,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.484619140625,
+                    "y": -482.04937744140625,
+                    "z": 52.97500991821289
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -5.980805397033691
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 10.156067848205566,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.65478515625,
+                    "y": -481.0278015136719,
+                    "z": 52.436920166015625
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.725275993347168
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 11.45071792602539,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.79345703125,
+                    "y": -479.9416198730469,
+                    "z": 51.85750961303711
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -5.39567232131958
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 10.625691413879395,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.865478515625,
+                    "y": -478.91461181640625,
+                    "z": 51.32090759277344
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.967952728271484
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 9.487000465393066,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.935791015625,
+                    "y": -477.85491943359375,
+                    "z": 50.762123107910156
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.380468845367432
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 10.181220054626465,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.028564453125,
+                    "y": -476.8343200683594,
+                    "z": 50.22529983520508
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.738259315490723
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 9.851607322692871,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.07861328125,
+                    "y": -476.1279296875,
+                    "z": 49.909847259521484
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.568238735198975
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 6.754614353179932,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.163330078125,
+                    "y": -475.0626220703125,
+                    "z": 49.34672546386719
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -2.9822006225585938
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 9.010356903076172,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.255615234375,
+                    "y": -474.0428161621094,
+                    "z": 48.80833435058594
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.135458469390869
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 10.043172836303711,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.35986328125,
+                    "y": -473.0299987792969,
+                    "z": 48.2615852355957
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.667020320892334
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 8.62767505645752,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.407470703125,
+                    "y": -471.9456481933594,
+                    "z": 47.68684005737305
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -3.9391074180603027
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 9.184295654296875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.49365234375,
+                    "y": -470.9284973144531,
+                    "z": 47.14410400390625
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.2248101234436035
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 9.848188400268555,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.553955078125,
+                    "y": -469.92510986328125,
+                    "z": 46.60603713989258
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.566476821899414
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 8.653730392456055,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.600341796875,
+                    "y": -468.83258056640625,
+                    "z": 46.0257453918457
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -3.9524660110473633
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 6.3425211906433105,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.609619140625,
+                    "y": -467.9778747558594,
+                    "z": 45.625675201416016
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -2.7724952697753906
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 7.7328410148620605,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.673095703125,
+                    "y": -466.89630126953125,
+                    "z": 45.05274200439453
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -3.4811413288116455
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 5.742403984069824,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.708984375,
+                    "y": -465.8546447753906,
+                    "z": 44.50739669799805
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -2.4675703048706055
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 4.6275177001953125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.718994140625,
+                    "y": -465.1507873535156,
+                    "z": 44.194541931152344
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -1.9023809432983398
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 7.466371536254883,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.781494140625,
+                    "y": -464.1142578125,
+                    "z": 43.65285873413086
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -3.345062017440796
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 7.707361698150635,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.770751953125,
+                    "y": -463.0821838378906,
+                    "z": 43.11506271362305
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -3.4681236743927
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 11.09054946899414,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.869140625,
+                    "y": -462.1778259277344,
+                    "z": 42.682735443115234
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -5.208724498748779
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 9.545873641967773,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2524.110595703125,
+                    "y": -461.1733093261719,
+                    "z": 42.145572662353516
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -4.410767078399658
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 8.355171203613281,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2524.151611328125,
+                    "y": -460.3047180175781,
+                    "z": 41.73625183105469
+                },
+                "rotation": {
+                    "pitch": 59.767616271972656,
+                    "roll": 179.49990844726563,
+                    "yaw": -3.7994744777679443
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 51.19993591308594,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2524.311279296875,
+                    "y": -459.25115966796875,
+                    "z": 41.1794548034668
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": -3.5145678520202637
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 290.2727966308594,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2524.52978515625,
+                    "y": -458.1077575683594,
+                    "z": 41.16419982910156
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 9.167082786560059
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 280.5946044921875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2524.38916015625,
+                    "y": -456.9232482910156,
+                    "z": 41.150455474853516
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 17.232879638671875
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 276.2048645019531,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.890869140625,
+                    "y": -455.83740234375,
+                    "z": 41.13454055786133
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 27.80579948425293
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 274.1869812011719,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2523.28271484375,
+                    "y": -454.7574157714844,
+                    "z": 41.113460540771484
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 37.91773223876953
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 272.5509033203125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2522.644775390625,
+                    "y": -453.8109436035156,
+                    "z": 41.089237213134766
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 51.87954330444336
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 272.10882568359375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2521.637451171875,
+                    "y": -453.1087951660156,
+                    "z": 41.069305419921875
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 57.00357437133789
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 271.6971130371094,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2520.673095703125,
+                    "y": -452.4363098144531,
+                    "z": 41.057552337646484
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 62.38826370239258
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 271.2590026855469,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2519.64501953125,
+                    "y": -451.9113464355469,
+                    "z": 41.02284240722656
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 68.77249145507813
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 271.0262451171875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2518.454345703125,
+                    "y": -451.54913330078125,
+                    "z": 41.00063705444336
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 72.42167663574219
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.95989990234375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2517.381591796875,
+                    "y": -451.2547302246094,
+                    "z": 40.97947311401367
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 73.49164581298828
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.99371337890625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2516.28369140625,
+                    "y": -450.89434814453125,
+                    "z": 40.956871032714844
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 72.94486236572266
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.5087890625,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2515.199462890625,
+                    "y": -450.4895324707031,
+                    "z": 40.93712615966797
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 81.06250762939453
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 270.19110107421875,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2514.053955078125,
+                    "y": -450.2931823730469,
+                    "z": 40.926700592041016
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 86.61666107177734
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 269.787109375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2512.9052734375,
+                    "y": -450.1565246582031,
+                    "z": 40.90169906616211
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 93.77230072021484
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 269.11749267578125,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2511.744140625,
+                    "y": -450.10211181640625,
+                    "z": 40.88667678833008
+                },
+                "rotation": {
+                    "pitch": 86.76758575439453,
+                    "roll": 179.49990844726563,
+                    "yaw": 105.31352996826172
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 267.91943359375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2510.646240234375,
+                    "y": -450.4713134765625,
+                    "z": 40.86274337768555
+                },
+                "rotation": {
+                    "pitch": 82.7676010131836,
+                    "roll": 179.49990844726563,
+                    "yaw": 106.1340103149414
+                },
+                "visible": true
+            },
+            {
+                "collision": true,
+                "dynamic": false,
+                "frozen": true,
+                "gravity": true,
+                "heading": 267.208984375,
+                "invincible": false,
+                "model": "P_BARRICADEWOOD_LRG01X",
+                "position": {
+                    "x": 2509.538330078125,
+                    "y": -450.7869567871094,
+                    "z": 40.76298522949219
+                },
+                "rotation": {
+                    "pitch": 79.26761627197266,
+                    "roll": 179.49990844726563,
+                    "yaw": 104.70121765136719
+                },
+                "visible": true
+            }
+        ],
+        "peds": [],
+        "vehicles": []
+    }
+}

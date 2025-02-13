@@ -1,0 +1,299 @@
+[
+    {
+        "name": "Revolvers",
+        "weapons": [
+            {
+                "name": "Cattleman Revolver",
+                "model": "WEAPON_REVOLVER_CATTLEMAN"
+            },
+            {
+                "name": "Cattleman Revolver(John)",
+                "model": "WEAPON_REVOLVER_CATTLEMAN_JOHN"
+            },
+            {
+                "name": "Cattleman Revolver(Mexican)",
+                "model": "WEAPON_REVOLVER_CATTLEMAN_MEXICAN"
+            },
+            {
+                "name": "Cattleman Pig Revolver",
+                "model": "WEAPON_REVOLVER_CATTLEMAN_PIG"
+            },
+            {
+                "name": "Double Action Revolver",
+                "model": "WEAPON_REVOLVER_DOUBLEACTION"
+            },
+            {
+                "name": "Double Action Revolver(Exotic)",
+                "model": "WEAPON_REVOLVER_DOUBLEACTION_EXOTIC"
+            },
+            {
+                "name": "Double Action Revolver(Gambler)",
+                "model": "WEAPON_REVOLVER_DOUBLEACTION_GAMBLER"
+            },
+            {
+                "name": "Double Action Revolver(Micah)",
+                "model": "WEAPON_REVOLVER_DOUBLEACTION_MICAH"
+            },
+            {
+                "name": "Lemat Revolver",
+                "model": "WEAPON_REVOLVER_LEMAT"
+            },
+            {
+                "name": "Schofield Revolver",
+                "model": "WEAPON_REVOLVER_SCHOFIELD"
+            },
+            {
+                "name": "Schofield Revolver(Golden)",
+                "model": "WEAPON_REVOLVER_SCHOFIELD_GOLDEN"
+            },
+            {
+                "name": "Schofield Revolver(Calloway)",
+                "model": "WEAPON_REVOLVER_SCHOFIELD_CALLOWAY"
+            }
+        ]
+    },
+    {
+        "name": "Pistols",
+        "weapons": [
+            {
+                "name": "M1899",
+                "model": "WEAPON_PISTOL_M1899"
+            },
+            {
+                "name": "Mauser",
+                "model": "WEAPON_PISTOL_MAUSER"
+            },
+            {
+                "name": "Mauser drunk",
+                "model": "WEAPON_PISTOL_MAUSER_DRUNK"
+            },
+            {
+                "name": "Semi-auto",
+                "model": "WEAPON_PISTOL_SEMIAUTO"
+            },
+            {
+                "name": "Volcanic",
+                "model": "WEAPON_PISTOL_VOLCANIC"
+            }
+        ]
+    },
+    {
+        "name": "Repeaters",
+        "weapons": [
+            {
+                "name": "Carbine Repeater",
+                "model": "WEAPON_REPEATER_CARBINE"
+            },
+            {
+                "name": "Evans Repeater",
+                "model": "WEAPON_REPEATER_EVANS"
+            },
+            {
+                "name": "Henry Repeater",
+                "model": "WEAPON_REPEATER_HENRY"
+            },
+            {
+                "name": "Winchester Repeater",
+                "model": "WEAPON_REPEATER_WINCHESTER"
+            }
+        ]
+    },
+    {
+        "name": "Rifles",
+        "weapons": [
+            {
+                "name": "Varmint Rifle",
+                "model": "WEAPON_RIFLE_VARMINT"
+            },
+            {
+                "name": "Bolt Action Rifle",
+                "model": "WEAPON_RIFLE_BOLTACTION"
+            },
+            {
+                "name": "Springfield Rifle",
+                "model": "WEAPON_RIFLE_SPRINGFIELD"
+            }
+        ]
+    },
+    {
+        "name": "Sniper Rifles",
+        "weapons": [
+            {
+                "name": "Carcano Rifle",
+                "model": "WEAPON_SNIPERRIFLE_CARCANO"
+            },
+            {
+                "name": "Rolling Block Rifle",
+                "model": "WEAPON_SNIPERRIFLE_ROLLINGBLOCK"
+            },
+            {
+                "name": "Rolling Block Rifle(Exotic)",
+                "model": "WEAPON_SNIPERRIFLE_ROLLINGBLOCK_EXOTIC"
+            }
+        ]
+    },
+    {
+        "name": "Shotguns",
+        "weapons": [
+            {
+                "name": "Double Barrel Shotgun",
+                "model": "WEAPON_SHOTGUN_DOUBLEBARREL"
+            },
+            {
+                "name": "Double Barrel Shotgun(Exotic)",
+                "model": "WEAPON_SHOTGUN_DOUBLEBARREL_EXOTIC"
+            },
+            {
+                "name": "Pump Shotgun",
+                "model": "WEAPON_SHOTGUN_PUMP"
+            },
+            {
+                "name": "Repeating Shotgun",
+                "model": "WEAPON_SHOTGUN_REPEATING"
+            },
+            {
+                "name": "Sawedoff Shotgun",
+                "model": "WEAPON_SHOTGUN_SAWEDOFF"
+            },
+            {
+                "name": "Semi-auto Shotgun",
+                "model": "WEAPON_SHOTGUN_SEMIAUTO"
+            }
+        ]
+    },
+    {
+        "name": "Thrown",
+        "weapons": [
+            {
+                "name": "Throwing Knives",
+                "model": "WEAPON_THROWN_THROWING_KNIVES"
+            },
+            {
+                "name": "Tomahawk",
+                "model": "WEAPON_THROWN_TOMAHAWK"
+            },
+            {
+                "name": "Tomahawk(Ancient)",
+                "model": "WEAPON_THROWN_TOMAHAWK_ANCIENT"
+            },
+            {
+                "name": "Dynamite",
+                "model": "WEAPON_THROWN_DYNAMITE"
+            },
+            {
+                "name": "Molotov",
+                "model": "WEAPON_THROWN_MOLOTOV"
+            }
+        ]
+    },
+    {
+        "name": "Melee",
+        "weapons": [
+            {
+                "name": "Lantern Electric",
+                "model": "WEAPON_MELEE_LANTERN_ELECTRIC"
+            },
+            {
+                "name": "Torch",
+                "model": "WEAPON_MELEE_TORCH"
+            },
+            {
+                "name": "Broken Sword",
+                "model": "WEAPON_MELEE_BROKEN_SWORD"
+            },
+            {
+                "name": "Hachet",
+                "model": "WEAPON_MELEE_HATCHET"
+            },
+            {
+                "name": "Cleaver",
+                "model": "WEAPON_MELEE_CLEAVER"
+            },
+            {
+                "name": "Hatchet(Ancient)",
+                "model": "WEAPON_MELEE_ANCIENT_HATCHET"
+            },
+            {
+                "name": "Hachet(Viking)",
+                "model": "WEAPON_MELEE_HATCHET_VIKING"
+            },
+            {
+                "name": "Hachet(Hewing)",
+                "model": "WEAPON_MELEE_HATCHET_HEWING"
+            },
+            {
+                "name": "Chet Double Bit",
+                "model": "WEAPON_MELEE_HATCHET_DOUBLE_BIT"
+            },
+            {
+                "name": "Hachet Double Bit(Rusted)",
+                "model": "WEAPON_MELEE_HATCHET_DOUBLE_BIT_RUSTED"
+            },
+            {
+                "name": "Hachet Hunter",
+                "model": "WEAPON_MELEE_HATCHET_HUNTER"
+            },
+            {
+                "name": "Hachet Hunter(Rusted)",
+                "model": "WEAPON_MELEE_HATCHET_HUNTER_RUSTED"
+            },
+            {
+                "name": "Knife(John)",
+                "model": "WEAPON_MELEE_KNIFE_JOHN"
+            },
+            {
+                "name": "Knife",
+                "model": "WEAPON_MELEE_KNIFE"
+            },
+            {
+                "name": "Knife(Jawbone)",
+                "model": "WEAPON_MELEE_KNIFE_JAWBONE"
+            },
+            {
+                "name": "Knife(Miner)",
+                "model": "WEAPON_MELEE_KNIFE_MINER"
+            },
+            {
+                "name": "Knife(Civil war)",
+                "model": "WEAPON_MELEE_KNIFE_CIVIL_WAR"
+            },
+            {
+                "name": "Knife(Bear)",
+                "model": "WEAPON_MELEE_KNIFE_BEAR"
+            },
+            {
+                "name": "Knife(Vampire)",
+                "model": "WEAPON_MELEE_KNIFE_VAMPIRE"
+            },
+            {
+                "name": "Machete",
+                "model": "WEAPON_MELEE_MACHETE"
+            }
+        ]
+    },
+    {
+        "name": "Other",
+        "weapons": [
+            {
+                "name": "Moonshine jug",
+                "model": "WEAPON_MOONSHINEJUG"
+            },
+            {
+                "name": "Fishing rod",
+                "model": "WEAPON_FISHINGROD"
+            },
+            {
+                "name": "Lasso",
+                "model": "WEAPON_LASSO"
+            },
+            {
+                "name": "Bow",
+                "model": "WEAPON_BOW"
+            },
+            {
+                "name": "Camera",
+                "model": "WEAPON_KIT_CAMERA"
+            }
+        ]
+    }
+]
