@@ -13,7 +13,7 @@ public class autoPilot : Script
 {
     // User-defined settings
     private const float TargetAltitude = 100.0f; // Fixed altitude in meters
-    private static readonly Vector3 NW_Corner = new Vector3(-1000f, -10f, 100f); // Start of flight grid
+    private static readonly Vector3 NW_Corner = new Vector3(-1000f, -10f, 350f); // Start of flight grid
     private const float MoveSpeed = 0.25f; // Reduced speed for accurate flight
     private float InitialHeading = 0f; // Default: East
     private float CameraPitchLock = -90.0f; // Default: -85 degrees
