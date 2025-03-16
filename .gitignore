@@ -7,3 +7,7 @@
 *.tiff
 *.webp
 *.ico
+*.mbtiles
+
+#Ignore Folders
+DX11 Overlay/RDR2_DXOverlay/.vs/RDR2_DXOverlay/v17

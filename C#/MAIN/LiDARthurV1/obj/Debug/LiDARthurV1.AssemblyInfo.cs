@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiDARthurV1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b940ef6202fca9cb9ca4884d36e659d530f8f56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+751c28abfc39e83e31938c72618e36325bf548bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiDARthurV1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiDARthurV1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
