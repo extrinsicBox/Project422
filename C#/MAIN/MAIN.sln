@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDR2DroneScripts", "IMPRT\RDR2DroneScripts.csproj", "{8409AA48-7E39-6C7F-76AF-9E48AD79C54F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiDARthurV1", "LiDARthurV1\LiDARthurV1.csproj", "{1CD33EA1-FEA1-B54A-91AD-1A2968F86B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8409AA48-7E39-6C7F-76AF-9E48AD79C54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8409AA48-7E39-6C7F-76AF-9E48AD79C54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8409AA48-7E39-6C7F-76AF-9E48AD79C54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8409AA48-7E39-6C7F-76AF-9E48AD79C54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD33EA1-FEA1-B54A-91AD-1A2968F86B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD33EA1-FEA1-B54A-91AD-1A2968F86B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD33EA1-FEA1-B54A-91AD-1A2968F86B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD33EA1-FEA1-B54A-91AD-1A2968F86B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794B2D2E-4D1B-4FFE-AB41-07178A456102}
+	EndGlobalSection
+EndGlobal

@@ -5394,7 +5394,7 @@ namespace RDR2.Native
 		public static float _READ_INT_AS_FLOAT(int value) => Function.Call<float>(0xD2C9126410DFA1B2, value);
 		public static float GET_RANDOM_FLOAT_IN_RANGE(float startRange, float endRange) => Function.Call<float>(0xE29F927A961F8AAA, startRange, endRange);
 		public static int GET_RANDOM_INT_IN_RANGE(int startRange, int endRange) => Function.Call<int>(0xD53343AA4FB7DD28, startRange, endRange);
-		public static bool GET_GROUND_Z_FOR_3D_COORD(float x, float y, float z, float* groundZ, bool p4) => Function.Call<bool>(0x24FA4267BB8D2431, x, y, z, groundZ, p4);
+		public static bool GET_GROUND_Z_FOR_3D_COORD(float x, float y, float z, float* groundZ, bool p4) => Function.Call<bool>(0x24FA4267BB8D2431, x, y, z, groundZ, p4); //GET_GROUND_Z_FOR_3D_COORD
 		public static bool GET_GROUND_Z_FOR_3D_COORD(Vector3 vec, float* groundZ, bool p4) => Function.Call<bool>(0x24FA4267BB8D2431, vec.X, vec.Y, vec.Z, groundZ, p4);
 		public static bool GET_GROUND_Z_AND_NORMAL_FOR_3D_COORD(float x, float y, float z, float* groundZ, Vector3* normal) => Function.Call<bool>(0x2A29CA9A6319E6AB, x, y, z, groundZ, normal);
 		public static bool GET_GROUND_Z_AND_NORMAL_FOR_3D_COORD(Vector3 vec, float* groundZ, Vector3* normal) => Function.Call<bool>(0x2A29CA9A6319E6AB, vec.X, vec.Y, vec.Z, groundZ, normal);

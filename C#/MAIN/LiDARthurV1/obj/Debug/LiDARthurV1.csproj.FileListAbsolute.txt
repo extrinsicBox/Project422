@@ -1,0 +1,10 @@
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.csproj.AssemblyReference.cache
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.AssemblyInfoInputs.cache
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.AssemblyInfo.cs
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.csproj.CoreCompileInputs.cache
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.sourcelink.json
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\bin\Debug\LiDARthurV1.dll
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\bin\Debug\LiDARthurV1.pdb
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.dll
+E:\RDR2 Maps\2025\SCRIPTING\Project421\C#\MAIN\LiDARthurV1\obj\Debug\LiDARthurV1.pdb

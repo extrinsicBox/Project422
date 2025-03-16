@@ -1,0 +1,67 @@
+<svg width="800" height="600" viewBox="-1000 -600 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background and axes -->
+  <rect x="-1000" y="-600" width="1000" height="1000" fill="#f9f9f9" />
+  <line x1="-1000" y1="0" x2="0" y2="0" stroke="#ccc" />
+  <line x1="-500" y1="-600" x2="-500" y2="400" stroke="#ccc" />
+
+  <!-- Toolpath drawn over time -->
+  <polyline id="pathSegment" fill="none" stroke="#0074D9" stroke-width="5" />
+
+  <!-- Drone -->
+  <circle id="drone" r="15" fill="#FF4136" />
+
+  <script type="application/ecmascript"><![CDATA[
+    const svg = document.documentElement;
+    const drone = svg.getElementById('drone');
+    const pathSegment = svg.getElementById('pathSegment');
+
+    const points = [
+      [-902.91, 128.99],
+      [-305.75, 157.65],
+      [-305.75, -463.40],
+      [-907.69, -492.06],
+      [-902.91, 128.99],
+      [-305.75, 157.65],
+      [-305.75, -463.40],
+      [-907.69, -492.06],
+      [-902.91, 128.99],
+      [-800.00, -400.00],
+      [-400.00, -400.00],
+      [-400.00, -200.00],
+      [-800.00, -200.00],
+      [-800.00, 0.00],
+      [-400.00, 0.00],
+      [-800.00, -400.00],
+      [-800.00, 0.00],
+      [-600.00, 0.00],
+      [-600.00, -400.00],
+      [-400.00, -400.00]
+    ];
+
+    let index = 0;
+    let pathData = '';
+
+    function animate() {
+      if (index < points.length) {
+        const [x, y] = points[index];
+        drone.setAttribute('cx', x);
+        drone.setAttribute('cy', y);
+
+        pathData += `${x},${y} `;
+        pathSegment.setAttribute('points', pathData);
+
+        index++;
+        setTimeout(animate, 500);
+      } else {
+        index = 0;
+        pathData = '';
+        setTimeout(animate, 1000);
+      }
+    }
+
+    animate();
+  ]]></script>
+
+  <!-- Labels -->
+  <text x="-950" y="180" font-size="20" fill="#333">Start</text>
+</svg>
